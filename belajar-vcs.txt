@@ -1,2 +1,4 @@
 Belajar VCS git dan github
 - git dan github adalah vcs kali
+- kita coba edit file ini
+- tambahin baris baru
