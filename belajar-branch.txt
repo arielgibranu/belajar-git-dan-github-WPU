@@ -4,5 +4,5 @@ Belajar Branch
 - bikin branch
 - terus belajar coding
   * belajar python
-  * belajar java
+  * belajar js
 - belajar it sec
