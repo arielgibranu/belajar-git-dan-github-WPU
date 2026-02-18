@@ -3,3 +3,6 @@ Belajar Branch
   * belajar branch di github
 - bikin branch
 - terus belajar coding
+  * belajar python
+  * belajar java
+- belajar it sec
